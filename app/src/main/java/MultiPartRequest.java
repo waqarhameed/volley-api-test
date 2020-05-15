@@ -1,0 +1,2 @@
+public class MultiPartRequest {
+}
